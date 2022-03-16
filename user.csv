@@ -1,0 +1,4 @@
+id,studentId,username,password,school,sex,escs,study,ability,pretest
+1,1,asd1,123456, , , , , , 
+3,3,asd3,123456, , , , , , 
+4,4,asd2,123456, , , , , , 
